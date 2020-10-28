@@ -1,6 +1,6 @@
 # <h1 align="center"><samp> KNN Classification Project </samp></h1>
 
-![alt text](Ad-ctr-project-image.png)
+![alt text](knn-project-image.png)
 
 ### Description:
 In this K Nearest Neighbors classification project, given a classified dataset, I will predict the class for a new data point based on its features. 
